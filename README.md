@@ -13,3 +13,6 @@ Aplicación web en Streamlit para explorar el dataset `vehicles_us.csv`.
 2. `pip install -r requirements.txt`
 3. `streamlit run app.py`
 
+## link del Dashboard
+- https://vehicles-data-app.onrender.com/
+
